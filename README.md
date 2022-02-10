@@ -1,5 +1,7 @@
 ### Hi there 👋
 ---
+Hello my name is M. Wahyu Indra. You can call me Wahyu or Indra. Some people like to call me indra:v I'm interested in web and mobile programming
+
 ### :woman_technologist: About Me :
 
 I am a Front End Web and Mobile Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bandung, Java.
