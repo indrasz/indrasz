@@ -8,7 +8,7 @@ I am a Front End Web and Mobile Developer <img src="https://media.giphy.com/medi
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend for building web and mobile applications.
 
-- :seedling: I am also a student at Telkom University in Software Engineering application.
+- :seedling: Currently a Software Engineering Application student at Telkom University, Bandung, Indonesia.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-indrasz-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/indrasz/)
 
