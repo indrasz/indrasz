@@ -35,7 +35,5 @@ I am a Front End Web and Mobile Developer <img src="https://media.giphy.com/medi
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=indrasz&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=indrasz)](https://github.com/anuraghazra/github-readme-stats)
+![Indrasz's GitHub stats](https://github-readme-stats.vercel.app/api?username=indrasz&show_icons=true&theme=radical)
 
