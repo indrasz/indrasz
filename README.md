@@ -36,11 +36,13 @@ I am a Front End Web and Mobile Developer <img src="https://media.giphy.com/medi
 
 ### :fire: My Stats :
 
-<div align="center" display="flex">
-  
-  ![Indrasz's GitHub stats](https://github-readme-stats.vercel.app/api?username=indrasz&show_icons=true&theme=radical)
+<div align="center">
+  <div style="display: flex;">
+    
+    ![Indrasz's GitHub stats](https://github-readme-stats.vercel.app/api?username=indrasz&show_icons=true&theme=radical)
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=indrasz&layout=compact)](https://github.com/indrasz/github-readme-stats)
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=indrasz&layout=compact)](https://github.com/indrasz/github-readme-stats)
   
+  </div> 
 </div>
 
