@@ -36,7 +36,7 @@ I am a Front End Web and Mobile Developer <img src="https://media.giphy.com/medi
 
 ### :fire: My Stats :
 
-<div align="center">
+<div align="center" display="flex">
   
   ![Indrasz's GitHub stats](https://github-readme-stats.vercel.app/api?username=indrasz&show_icons=true&theme=radical)
 
