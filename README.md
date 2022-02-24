@@ -1,4 +1,6 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
+### Hi There
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 ---
 Hello my name is M. Wahyu Indra. You can call me Wahyu or Indra. Some people like to call me indra:v I'm interested in web and mobile programming
 
@@ -16,7 +18,7 @@ I am a Front End Web and Mobile Developer <img src="https://media.giphy.com/medi
 
 ### :hammer_and_wrench: Languages and Tools | Use :
 
-<div>
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
