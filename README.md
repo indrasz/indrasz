@@ -11,7 +11,7 @@ I am a Front End Web and Mobile Developer <img src="https://media.giphy.com/medi
 
 - :seedling: Currently a Software Engineering Application student at Telkom University, Bandung, West Java, Indonesia.
 
-- :briefcase: Mobile Dev at TransTRACK.ID
+- :briefcase: Frontend Dev at TransTRACK.ID
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/indrasz_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/indrasz) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/indrasz__) 
