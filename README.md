@@ -21,7 +21,7 @@ I am a Front End Web and Mobile Developer <img src="https://media.giphy.com/medi
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=indrasz&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/> 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=indrasz&theme=tokyonight&hide_border=false)<br/>
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=indrasz&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=indrasz&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact) 
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
