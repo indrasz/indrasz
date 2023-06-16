@@ -1,11 +1,12 @@
 <!-- ### Hi there 👋 -->
 ### Hi There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 ---
-Hello my name is M. Wahyu Indra. You can call me Wahyu or Indra. Some people like to call me indra:v I'm interested in web and mobile programming
+Holla everyone, my name's M. Wahyu Indra. You can call me Indra. I'm interested in web and mobile programming. 
 
 # 💫 About Me:
 
-I am a Front End Web and Mobile Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bandung, Java.
+Throughout my career, I have worked on a diverse range of projects, combining my technical skills and creative mindset to deliver exceptional results.
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  based out of Bandung, West Java. 
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend for building web and mobile applications.
 
