@@ -10,9 +10,9 @@ Throughout my career, I have worked on a diverse range of projects, combining my
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend for building web and mobile applications.
 
-- :seedling: Currently a Software Engineering Application student at Telkom University, Bandung, West Java, Indonesia.
+- :seedling: Currently a Informatics student at Telkom University, Bandung, West Java, Indonesia.
 
-- :briefcase: Frontend Dev at TransTRACK.ID
+- :briefcase: Frontend Enthusiast
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/indrasz_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/indrasz) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/indrasz__) 
